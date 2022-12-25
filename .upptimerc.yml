@@ -10,6 +10,8 @@ sites:
     url: $MONITORSS_MUSIC
   - name: MonitoRSS-Tech
     url: $MONITORSS_TECH
+  - name: MonitoRSS-Journalism
+    url: $MONITORSS_TECH
 
 status-website:
   theme: night
