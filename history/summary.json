@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-ambler",
     "status": "down",
-    "uptime": "74.55%",
+    "uptime": "72.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "22.58%",
-    "uptimeMonth": "74.55%",
-    "uptimeYear": "74.55%",
+    "uptimeWeek": "10.54%",
+    "uptimeMonth": "72.38%",
+    "uptimeYear": "72.38%",
     "time": 336,
     "timeDay": 308,
     "timeWeek": 345,
     "timeMonth": 336,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2023-01-22": 107,
+      "2023-01-22": 1321,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
@@ -33,9 +33,9 @@
     "url": "$MONITORSS_CORD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-cord",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -44,7 +44,9 @@
     "timeWeek": 344,
     "timeMonth": 336,
     "timeYear": 336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-22": 0
+    }
   },
   {
     "name": "MonitoRSS-Music",
