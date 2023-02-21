@@ -1,7 +1,7 @@
 url: $MONITORSS_MUSIC
-status: down
-code: 502
-responseTime: 21266
-lastUpdated: 2023-02-21T04:46:48.360Z
+status: up
+code: 200
+responseTime: 304
+lastUpdated: 2023-02-21T05:16:23.727Z
 startTime: Sun Dec 25 2022 00:21:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
