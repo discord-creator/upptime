@@ -4,7 +4,7 @@
     "url": "$MONITORSS_AMBLER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-ambler",
-    "status": "up",
+    "status": "down",
     "uptime": "86.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
@@ -16,6 +16,7 @@
     "timeMonth": 257,
     "timeYear": 374,
     "dailyMinutesDown": {
+      "2023-08-14": 0,
       "2023-08-11": 74,
       "2023-06-12": 65,
       "2023-05-26": 60,
