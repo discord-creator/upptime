@@ -1,7 +1,7 @@
 url: $MONITORSS_CORD
-status: down
-code: 503
-responseTime: 194
-lastUpdated: 2023-10-04T15:40:19.404Z
+status: up
+code: 200
+responseTime: 26499
+lastUpdated: 2023-10-04T16:52:47.853Z
 startTime: 2022-12-25T00:21:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
