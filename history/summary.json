@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-ambler",
     "status": "up",
-    "uptime": "93.08%",
+    "uptime": "93.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.31%",
     "time": 304,
-    "timeDay": 116,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 298,
+    "timeDay": 236,
+    "timeWeek": 212,
+    "timeMonth": 210,
+    "timeYear": 297,
     "dailyMinutesDown": {
       "2024-03-05": 21,
       "2024-01-04": 25,
@@ -23,8 +23,7 @@
       "2023-06-12": 65,
       "2023-05-26": 60,
       "2023-04-01": 79,
-      "2023-03-31": 1440,
-      "2023-03-30": 1440
+      "2023-03-31": 1440
     }
   },
   {
@@ -33,18 +32,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-cord",
     "status": "down",
-    "uptime": "99.63%",
+    "uptime": "99.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.42%",
-    "uptimeMonth": "95.50%",
-    "uptimeYear": "99.54%",
+    "uptimeWeek": "66.14%",
+    "uptimeMonth": "92.21%",
+    "uptimeYear": "99.26%",
     "time": 422,
-    "timeDay": 145,
-    "timeWeek": 171,
-    "timeMonth": 204,
+    "timeDay": 0,
+    "timeWeek": 183,
+    "timeMonth": 207,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2024-03-28": 76,
+      "2024-03-29": 76,
+      "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 457,
       "2024-02-07": 17,
@@ -53,8 +53,7 @@
       "2023-10-04": 172,
       "2023-09-09": 43,
       "2023-08-11": 95,
-      "2023-08-10": 62,
-      "2023-03-30": 21
+      "2023-08-10": 62
     }
   },
   {
@@ -63,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-music",
     "status": "down",
-    "uptime": "79.85%",
+    "uptime": "79.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "74.68%",
+    "uptimeYear": "74.41%",
     "time": 344,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 217,
-    "timeYear": 276,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-03-28": 76,
+      "2024-03-29": 76,
+      "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
@@ -183,15 +183,15 @@
     "slug": "monito-rss-tech",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "98.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.54%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.22%",
     "time": 483,
-    "timeDay": 221,
-    "timeWeek": 213,
-    "timeMonth": 709,
-    "timeYear": 482,
+    "timeDay": 232,
+    "timeWeek": 223,
+    "timeMonth": 207,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2024-03-27": 16,
       "2024-03-19": 48,
@@ -213,8 +213,7 @@
       "2023-08-10": 72,
       "2023-08-08": 60,
       "2023-07-14": 80,
-      "2023-05-16": 20,
-      "2023-03-30": 86
+      "2023-05-16": 20
     }
   },
   {
@@ -224,14 +223,14 @@
     "slug": "monito-rss-journalism",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "98.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.55%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.24%",
     "time": 231,
-    "timeDay": 119,
-    "timeWeek": 144,
-    "timeMonth": 166,
+    "timeDay": 284,
+    "timeWeek": 164,
+    "timeMonth": 152,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2024-03-27": 16,
@@ -252,8 +251,7 @@
       "2023-08-10": 72,
       "2023-08-08": 60,
       "2023-07-14": 80,
-      "2023-05-16": 18,
-      "2023-03-30": 53
+      "2023-05-16": 18
     }
   }
 ]
