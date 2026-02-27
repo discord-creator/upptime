@@ -1,7 +1,7 @@
 url: $MONITORSS_TECH
 status: down
-code: 503
-responseTime: 105
-lastUpdated: 2026-02-26T23:26:50.151Z
+code: 429
+responseTime: 13
+lastUpdated: 2026-02-27T23:21:43.268Z
 startTime: 2022-12-25T00:35:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
