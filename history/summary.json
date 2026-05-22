@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-ambler",
     "status": "down",
-    "uptime": "40.47%",
+    "uptime": "40.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 238,
-    "timeDay": 332,
-    "timeWeek": 207,
-    "timeMonth": 214,
-    "timeYear": 231,
+    "time": 237,
+    "timeDay": 100,
+    "timeWeek": 196,
+    "timeMonth": 212,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2026-05-21": 264,
+      "2026-05-22": 259,
+      "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
@@ -379,8 +380,7 @@
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
-      "2025-05-23": 1440,
-      "2025-05-22": 1440
+      "2025-05-23": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-cord",
     "status": "down",
-    "uptime": "36.79%",
+    "uptime": "36.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 99,
+    "timeDay": 99,
+    "timeWeek": 99,
+    "timeMonth": 99,
+    "timeYear": 99,
     "dailyMinutesDown": {
-      "2026-05-21": 264,
+      "2026-05-22": 259,
+      "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
@@ -763,8 +764,7 @@
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
-      "2025-05-23": 1440,
-      "2025-05-22": 1440
+      "2025-05-23": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-music",
     "status": "down",
-    "uptime": "29.48%",
+    "uptime": "29.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 274,
+    "timeDay": 274,
+    "timeWeek": 274,
+    "timeMonth": 274,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2026-05-21": 265,
+      "2026-05-22": 259,
+      "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
@@ -1147,8 +1148,7 @@
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
-      "2025-05-23": 1440,
-      "2025-05-22": 1440
+      "2025-05-23": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-tech",
     "status": "down",
-    "uptime": "42.81%",
+    "uptime": "42.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 245,
-    "timeDay": 121,
-    "timeWeek": 126,
-    "timeMonth": 179,
+    "timeDay": 245,
+    "timeWeek": 140,
+    "timeMonth": 180,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2026-05-21": 265,
+      "2026-05-22": 259,
+      "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
@@ -1531,8 +1532,7 @@
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
-      "2025-05-23": 1440,
-      "2025-05-22": 1440
+      "2025-05-23": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-journalism",
     "status": "down",
-    "uptime": "42.82%",
+    "uptime": "42.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 27,
-    "timeDay": 88,
-    "timeWeek": 105,
-    "timeMonth": 61,
-    "timeYear": 27,
+    "timeDay": 105,
+    "timeWeek": 99,
+    "timeMonth": 64,
+    "timeYear": 28,
     "dailyMinutesDown": {
-      "2026-05-21": 265,
+      "2026-05-22": 259,
+      "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
@@ -1915,8 +1916,7 @@
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
-      "2025-05-23": 1440,
-      "2025-05-22": 1440
+      "2025-05-23": 1440
     }
   }
 ]
