@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-ambler",
     "status": "down",
-    "uptime": "37.24%",
+    "uptime": "37.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 210,
-    "timeDay": 122,
-    "timeWeek": 112,
-    "timeMonth": 130,
-    "timeYear": 202,
+    "timeDay": 117,
+    "timeWeek": 103,
+    "timeMonth": 129,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2026-09-06": 256,
+      "2026-09-07": 255,
+      "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -379,8 +380,7 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
-      "2025-09-07": 1440
+      "2025-09-08": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-cord",
     "status": "down",
-    "uptime": "33.85%",
+    "uptime": "33.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2026-09-06": 256,
+      "2026-09-07": 255,
+      "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -763,8 +764,7 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
-      "2025-09-07": 1440
+      "2025-09-08": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-music",
     "status": "down",
-    "uptime": "27.13%",
+    "uptime": "27.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2026-09-06": 256,
+      "2026-09-07": 255,
+      "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -1147,8 +1148,7 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
-      "2025-09-07": 1440
+      "2025-09-08": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-tech",
     "status": "down",
-    "uptime": "39.39%",
+    "uptime": "39.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 213,
-    "timeDay": 117,
-    "timeWeek": 130,
-    "timeMonth": 128,
+    "timeDay": 208,
+    "timeWeek": 138,
+    "timeMonth": 129,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2026-09-06": 256,
+      "2026-09-07": 255,
+      "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -1531,8 +1532,7 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
-      "2025-09-07": 1440
+      "2025-09-08": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-journalism",
     "status": "down",
-    "uptime": "39.40%",
+    "uptime": "39.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 49,
-    "timeDay": 103,
-    "timeWeek": 127,
-    "timeMonth": 121,
-    "timeYear": 59,
+    "timeDay": 126,
+    "timeWeek": 128,
+    "timeMonth": 120,
+    "timeYear": 60,
     "dailyMinutesDown": {
-      "2026-09-06": 256,
+      "2026-09-07": 255,
+      "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -1915,8 +1916,7 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
-      "2025-09-07": 1440
+      "2025-09-08": 1440
     }
   }
 ]
